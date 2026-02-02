@@ -17,13 +17,12 @@ My first Arduino project - makes an LED blink on/off every second.
 
 ## Circuit
 ```
-Pin 13 → 220Ω resistor → LED (long leg) → LED (short leg) → GND
+Pin 12 → 220Ω resistor → LED (long leg) → LED (short leg) → GND
 ```
 
 ## Code
 See [blink.ino](blink.ino)
 
 ---
-**Date:** Feb 2, 2026  
-**Time:** 1 hour  
+**Date:** Feb 1, 2026    
 **Status:** ✅ Complete
