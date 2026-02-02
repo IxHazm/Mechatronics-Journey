@@ -1,7 +1,7 @@
 /*
  * Blink LED
  * Date: Feb 1, 2026
- * My first Arduino program - blinks an LED on pin 13
+ * My first Arduino program - blinks an LED on pin 12
  */
 
 void setup() {
