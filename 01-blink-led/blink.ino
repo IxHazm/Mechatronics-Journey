@@ -1,9 +1,3 @@
-/*
- * Blink LED
- * Date: Feb 1, 2026
- * My first Arduino program - blinks an LED on pin 12
- */
-
 void setup() {
   pinMode(12, OUTPUT);  // Set pin 12 as output
 }
