@@ -7,7 +7,7 @@ My first Arduino project - makes an LED blink on/off every second.
 
 ## Circuit Diagram
 
-![Circuit Photo](Media/circuit-diagram)
+![Circuit Photo](Media/circuit-diagram.png)
 
 ## What I Learned
 - `pinMode()` configures pins as INPUT/OUTPUT
