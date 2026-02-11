@@ -42,8 +42,6 @@ Multiple LEDs in chase pattern - forward then backward.
 - 4x 220Ω resistors
 - Breadboard + jumper wires
 
-## Circuit Diagram
-
 ## Code
 See [led_patterns.ino](led-patterns.ino)
 
