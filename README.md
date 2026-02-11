@@ -2,7 +2,7 @@
 
 **1-year self-taught roadmap** 
 
-![Progress](https://img.shields.io/badge/Projects-3%2F60-brightgreen) ![Level](https://img.shields.io/badge/Level-1-blue) **Started:** Feb 1, 2026
+![Progress](https://img.shields.io/badge/Projects-5%2F60-brightgreen) ![Level](https://img.shields.io/badge/Level-1-blue) **Started:** Feb 1, 2026
 
 ---
 
