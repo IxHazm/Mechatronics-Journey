@@ -3,8 +3,8 @@
 Simple circuit that turns LED on/off based on button press state.
 
 ## Demo
-![Button LED On](media/photo1.jpeg)
-![Button Led Photo](media/photo.jpeg)
+![Button LED On](media/photo_1.jpeg)
+![Button Led Photo](media/photo_2.jpeg)
 ## What I Learned
 
 **Digital Input:**
