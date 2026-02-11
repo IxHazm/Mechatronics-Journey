@@ -13,7 +13,6 @@ LED smoothly fades in and out using Pulse Width Modulation (PWM).
 - Value range: 0 (off) to 255 (full brightness)
 - PWM pins on Arduino UNO: 3, 5, 6, 9, 10, 11 (marked with ~)
 - PWM = rapidly switching pin HIGH/LOW at different duty cycles
-- Higher value = more time HIGH = brighter LED
 
 **For Loops:**
 - `for(int i = 0; i <= 255; i++)` - Increment brightness
